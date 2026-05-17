@@ -54,6 +54,7 @@ Bottom line: *break it on purpose* so you can **trust it in production**.
 > **Experiment ideas (AI-specific)**: context-window squeeze; tool/API timeouts + schema drift; RAG decoys/poisoning; jailbreak gauntlet; model/version swaps; concurrency spikes; token-budget exhaustion; partial outages; rate-limit flaps.
 
 ## Guardrails & Red Teaming
+- **APort** — Open-source trust rail and integration toolkit for AI agents. <https://github.com/aporthq/aport-integrations>
 - **OWASP Top 10 for LLM Applications (2025)** — Risks & mitigations. <https://genai.owasp.org/llm-top-10/>
 - **MITRE ATLAS** — Adversarial tactics/techniques for AI systems. <https://atlas.mitre.org/>
 - **NeMo Guardrails (NVIDIA)** — Programmable guardrails for LLM apps. <https://github.com/NVIDIA/NeMo-Guardrails>
