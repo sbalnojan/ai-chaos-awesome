@@ -61,6 +61,7 @@ Bottom line: *break it on purpose* so you can **trust it in production**.
 - **garak (NVIDIA)** — LLM vulnerability scanner / red-teaming kit. <https://github.com/NVIDIA/garak>
 - **Lakera PINT benchmark** — Prompt-injection test benchmark. <https://github.com/lakeraai/pint-benchmark>
 - **Microsoft: Red teaming 100 GenAI products** — Lessons + case study. <https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/>
+- [Speakeasy control plane](https://github.com/speakeasy-api/gram) — MCP gateway with identity-based tool permissions and audit logs for validating agent tool-access boundaries.
 
 ## Observability & Validation
 - **Phoenix (Arize)** — Tracing, evals, dataset mgmt. <https://github.com/Arize-ai/phoenix>
