@@ -42,6 +42,7 @@ Bottom line: *break it on purpose* so you can **trust it in production**.
 - **Phoenix (Arize)** — OSS observability + evaluation for LLM apps. <https://github.com/Arize-ai/phoenix>
 
 ## AI Chaos Experiments & Tooling
+- [Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) - Offline agent-recovery teaching simulator with lost-acknowledgement, partial-write, stale-version and invalid-transition faults, state assertions and replay.
 - **Integrating Chaos Engineering with AI/ML** — Using AI to predict failures from chaos runs. (Harness) <https://www.harness.io/blog/integrating-chaos-engineering-with-ai-ml-proactive-failure-prediction>
 - **Chaos Engineering in AI: Breaking AI to Make It Stronger** — Failure scenarios & simulations. (Srinivasa Rao Bittla) <https://bittla.medium.com/chaos-engineering-in-ai-breaking-ai-to-make-it-stronger-3d87e5f0da73>
 - **Chaos Engineering in the Age of AI** — Hidden complexity in AI systems. (Adrian Hornsby) <https://adhorn.medium.com/chaos-engineering-in-the-age-of-ai-surfacing-hidden-complexity-074efc8fa494>
