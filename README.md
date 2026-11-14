@@ -63,6 +63,7 @@ Bottom line: *break it on purpose* so you can **trust it in production**.
 - **Microsoft: Red teaming 100 GenAI products** — Lessons + case study. <https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/>
 
 ## Observability & Validation
+- **Failproof AI** — Open-source runtime reliability platform for AI agents with runtime guardrails, workflow replay, and policy enforcement to help detect and prevent production failures. <https://github.com/FailproofAI/failproofai>
 - **Phoenix (Arize)** — Tracing, evals, dataset mgmt. <https://github.com/Arize-ai/phoenix>
 - **OpenTelemetry** — Standard traces/metrics/logs (instrument your whole chain). <https://opentelemetry.io/>
 - **Datadog + Ragas** — Evaluate prod RAG with Ragas metrics. <https://docs.datadoghq.com/llm_observability/evaluations/ragas_evaluations/>
